@@ -1,0 +1,3 @@
+@echo bat
+exit
+
